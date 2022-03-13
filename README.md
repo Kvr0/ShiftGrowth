@@ -3,7 +3,7 @@
 シフトを押している間作物が成長...するかもしれません
 
 ## DL
-[__DownLoad__](https://github.com/Kvr0/ShiftGrowth/releases/download/PreRelease/ShiftGrowth.zip)
+[__DownLoad__](https://github.com/Kvr0/ShiftGrowth/releases/latest/download/ShiftGrowth.zip)
 
 ## 前提データパック
 - [`s4core`](https://github.com/Kvr0/s4core)
